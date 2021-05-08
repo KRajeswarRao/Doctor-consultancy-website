@@ -21,7 +21,15 @@
     color: #3498db !important;
 }
 
+
+
+
 a.active-cls{
     font-weight: bold;
     border-bottom: 2px solid #3498db;
 }
+
+.mainicon{
+    font-size: 1.9rem;
+}
+
